@@ -1,0 +1,60 @@
+{
+  "Veo 使い方": [
+    {"keyword": "Veo 始め方 2026 完全ガイド", "priority": "high", "status": "pending"},
+    {"keyword": "Veo 無料版でできること", "priority": "high", "status": "pending"},
+    {"keyword": "Veo プロンプトの書き方コツ", "priority": "high", "status": "pending"},
+    {"keyword": "Veo 4K 60fps 動画生成方法", "priority": "medium", "status": "pending"},
+    {"keyword": "Veo 音声同期生成の使い方", "priority": "medium", "status": "pending"},
+    {"keyword": "Veo カメラワーク指定テクニック", "priority": "medium", "status": "pending"}
+  ],
+  "Veo 料金・プラン": [
+    {"keyword": "Veo 料金プラン 2026年最新", "priority": "high", "status": "pending"},
+    {"keyword": "Google One AI Premium Veo特典", "priority": "high", "status": "pending"},
+    {"keyword": "Veo 無料 有料 違い比較", "priority": "high", "status": "pending"},
+    {"keyword": "Veo API 料金体系と従量課金", "priority": "medium", "status": "pending"},
+    {"keyword": "Veo コスパ最強の使い方", "priority": "low", "status": "pending"}
+  ],
+  "Veo vs Runway": [
+    {"keyword": "Veo Runway Gen-3 比較 2026", "priority": "high", "status": "pending"},
+    {"keyword": "Veo vs Runway 画質対決", "priority": "high", "status": "pending"},
+    {"keyword": "Veo Runway 料金比較 どっちが安い", "priority": "medium", "status": "pending"},
+    {"keyword": "Veo Runway 商用利用 ライセンス比較", "priority": "medium", "status": "pending"}
+  ],
+  "Veo 最新ニュース": [
+    {"keyword": "Sora 終了 Veo 乗り換えガイド", "priority": "high", "status": "pending"},
+    {"keyword": "Veo 3 新機能まとめ", "priority": "high", "status": "pending"},
+    {"keyword": "Google DeepMind Veo アップデート速報", "priority": "high", "status": "pending"},
+    {"keyword": "Google I/O 2026 Veo発表まとめ", "priority": "medium", "status": "pending"},
+    {"keyword": "Veo YouTube連携 新機能", "priority": "medium", "status": "pending"}
+  ],
+  "AI動画生成テクニック": [
+    {"keyword": "AI動画 プロンプトエンジニアリング入門", "priority": "high", "status": "pending"},
+    {"keyword": "Veo 高画質動画を作るコツ5選", "priority": "high", "status": "pending"},
+    {"keyword": "AI動画 音楽・効果音の同期方法", "priority": "medium", "status": "pending"},
+    {"keyword": "Veo スローモーション・タイムラプス生成", "priority": "medium", "status": "pending"},
+    {"keyword": "AI動画 アスペクト比・解像度の最適設定", "priority": "medium", "status": "pending"},
+    {"keyword": "Veo 長尺動画を生成するテクニック", "priority": "low", "status": "pending"}
+  ],
+  "Veo 活用事例": [
+    {"keyword": "Veo ビジネス活用 事例集 2026", "priority": "high", "status": "pending"},
+    {"keyword": "Veo YouTube動画制作 活用術", "priority": "high", "status": "pending"},
+    {"keyword": "Veo SNS広告動画 作り方", "priority": "medium", "status": "pending"},
+    {"keyword": "Veo 不動産・商品紹介 動画活用", "priority": "medium", "status": "pending"},
+    {"keyword": "Veo 教育・研修動画 制作事例", "priority": "medium", "status": "pending"},
+    {"keyword": "Veo 副業 動画クリエイター", "priority": "low", "status": "pending"}
+  ],
+  "Sora代替ツール": [
+    {"keyword": "Sora 代替ツール おすすめ5選 2026", "priority": "high", "status": "pending"},
+    {"keyword": "Sora終了 なぜVeoが最有力候補なのか", "priority": "high", "status": "pending"},
+    {"keyword": "OpenAI Sora 終了理由と今後", "priority": "high", "status": "pending"},
+    {"keyword": "Sora ユーザー Veo移行手順", "priority": "medium", "status": "pending"},
+    {"keyword": "Sora代替 無料で使えるAI動画ツール", "priority": "medium", "status": "pending"}
+  ],
+  "AI動画比較": [
+    {"keyword": "AI動画生成ツール 比較ランキング 2026", "priority": "high", "status": "pending"},
+    {"keyword": "Veo Kling Pika 3社比較", "priority": "high", "status": "pending"},
+    {"keyword": "AI動画 画質・速度・料金 徹底比較", "priority": "high", "status": "pending"},
+    {"keyword": "AI動画 商用利用OK ツール比較", "priority": "medium", "status": "pending"},
+    {"keyword": "AI動画 日本語対応 ツールまとめ", "priority": "medium", "status": "pending"}
+  ]
+}

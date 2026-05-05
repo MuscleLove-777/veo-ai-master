@@ -1,0 +1,26 @@
+{
+  "title": "Veo Runway Gen-3 比較：2026年のAI動画生成はどう選ぶ？",
+  "content": "# Veo vs Runway Gen-3：2026年のAI動画生成ツール完全比較\n\n## この記事でわかること\n\n- **Veoの強み：4K/60fps高品質動画と日本語プロンプト対応**で、クリエイティブな映像制作に適している\n- **Runway Gen-3の強み：プロフェッショナル向け機能とリアルタイムプレビュー**で、商用制作現場で優位\n- **2026年のAI動画市場：Sora終了後、両者の使い分け戦略**が映像制作の効率化を左右する\n\n## 結論\n\n**2026年のAI動画生成は「VeoかRunway Gen-3か」ではなく「用途による使い分け」がベストプラクティスです。**\n\n高品質な4K/60fps動画や日本語対応が必要なら**Veo**、商用案件で納期短縮と細かい制御が必要なら**Runway Gen-3**を選ぶべきです。Sora終了により、この両者のシェアが急速に拡大していますが、各ツールの特性を理解することで、プロジェクト要件に最適なツール選択が可能になります。\n\n## VeoとRunway Gen-3の基本スペック比較\n\n### Google DeepMind Veoの特徴\n\nVeoは、Google DeepMindが開発したAI動画生成モデルで、**最大4K（2160p）/60fpsの高解像度動画生成**が特徴です。日本語プロンプトに対応し、複雑な映像表現を自然に生成できます。\n\n**主な機能：**\n- 最大1分間の動画生成（シーン分割で拡張可能）\n- 日本語を含む多言語プロンプト対応\n- リアルタイム音声同期生成\n- カメラモーション制御（パン、ズーム、回転）\n- 色彩・構図の細密制御\n\n**料金体系：** Google Cloudプラットフォーム経由、従量課金制（動画の長さと品質で決定）\n\n### Runway Gen-3の特徴\n\nRunwayは、映像制作向けAIプラットフォームで、**プロフェッショナル向けの充実したUI/UXと、商用案件への対応**が強みです。Gen-3は、前世代から大幅に品質向上し、Veoに匹敵する映像クオリティを実現しています。\n\n**主な機能：**\n- 最大4K対応（アップスケーリング含む）\n- リアルタイムプレビュー機能\n- マルチショット編集（複数シーンの連続生成）\n- インペイント・アウトペイント機能\n- プロジェクト管理ダッシュボード\n\n**料金体系：** 月額制（Standard: $25/月、Pro: $95/月）とクレジット購入オプション\n\n## 動画生成品質の実践的な差異\n\n### Veoの品質優位性\n\nVeoは、特に以下の場面で高い品質を発揮します：\n\n1. **物理演算の正確性**：水の流れ、布の動き、光の反射など、自然現象のシミュレーションが精密\n2. **動きの滑らかさ**：60fps対応により、パン・ズーム・カメラモーションが自然で映画的\n3. **日本語テキストの処理**：複雑な和文プロンプトでも意図を正確に反映\n\n**Veo推奨プロンプト例：**\n\n\n\n## おすすめサービス・ツール\n\nこの記事で紹介した内容を実践するために、以下のサービスがおすすめです。\n\n- **[Amazon](https://www.amazon.co.jp?tag=musclelove07-22)** - AmazonでAI動画生成関連書籍を探す\n- **[楽天ブックス](https://www.rakuten.co.jp)** - 楽天でAI動画生成関連書籍を探す\n\n*※ 上記リンクからご利用いただくと、サイト運営の支援になります。*\n",
+  "hero_emoji": "📝",
+  "hero_gradient": "135deg",
+  "image_search_query": "",
+  "meta_description": "Veo vs Runway Gen-3：2026年のAI動画生成ツール完全比較\n\n この記事でわかること\n\n- Veoの強み：4K/60fps高品質動画と日本語プロンプト対応で、クリエイティブな映像制作に適している\n- Runway Ge",
+  "tags": [
+    "自動生成",
+    "ブログ",
+    "記事",
+    "SEO",
+    "最新"
+  ],
+  "slug": "veo-runway-gen-3-2026ai",
+  "keyword": "Veo Runway Gen-3 比較 2026",
+  "category": "Veo vs Runway",
+  "generated_at": "2026-05-05T11:33:28.116600",
+  "seo_score": 47,
+  "jsonld": [
+    "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"BlogPosting\",\n  \"headline\": \"Veo Runway Gen-3 比較：2026年のAI動画生成はどう選ぶ？\",\n  \"description\": \"Veo vs Runway Gen-3：2026年のAI動画生成ツール完全比較\\n\\n この記事でわかること\\n\\n- Veoの強み：4K/60fps高品質動画と日本語プロンプト対応で、クリエイティブな映像制作に適している\\n- Runway Ge\",\n  \"url\": \"https://musclelove-777.github.io/veo-ai-master/articles/veo-runway-gen-3-2026ai.html\",\n  \"datePublished\": \"2026-05-05T11:33:28.116600\",\n  \"dateModified\": \"2026-05-05T11:33:28.116600\",\n  \"author\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Veo AI動画生成マスター\",\n    \"url\": \"https://musclelove-777.github.io/veo-ai-master\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Veo AI動画生成マスター\",\n    \"url\": \"https://musclelove-777.github.io/veo-ai-master\"\n  },\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://musclelove-777.github.io/veo-ai-master/articles/veo-runway-gen-3-2026ai.html\"\n  },\n  \"keywords\": \"自動生成, ブログ, 記事, SEO, 最新\",\n  \"articleSection\": \"Veo vs Runway\",\n  \"inLanguage\": \"ja\"\n}\n</script>",
+    "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"BreadcrumbList\",\n  \"itemListElement\": [\n    {\n      \"@type\": \"ListItem\",\n      \"position\": 1,\n      \"name\": \"ホーム\",\n      \"item\": \"https://musclelove-777.github.io/veo-ai-master\"\n    },\n    {\n      \"@type\": \"ListItem\",\n      \"position\": 2,\n      \"name\": \"Veo vs Runway\",\n      \"item\": \"https://musclelove-777.github.io/veo-ai-master/category/Veo vs Runway\"\n    },\n    {\n      \"@type\": \"ListItem\",\n      \"position\": 3,\n      \"name\": \"Veo Runway Gen-3 比較：2026年のAI動画生成はどう選ぶ？\"\n    }\n  ]\n}\n</script>"
+  ],
+  "has_affiliate": true,
+  "affiliate_count": 2
+}

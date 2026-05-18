@@ -181,7 +181,8 @@
     {
       "keyword": "Sora終了 なぜVeoが最有力候補なのか",
       "priority": "high",
-      "status": "pending"
+      "status": "done",
+      "done_at": "2026-05-18T23:55:34.792548"
     },
     {
       "keyword": "OpenAI Sora 終了理由と今後",
